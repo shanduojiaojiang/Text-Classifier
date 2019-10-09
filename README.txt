@@ -1,5 +1,2 @@
-'''
 Run with
-python3 mp3.py --training data/train
-python3 mp3.py --development data/dev
-'''
+python3 mp3.py --lower_case LOWERCASE
